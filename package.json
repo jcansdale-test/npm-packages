@@ -1,0 +1,5 @@
+{
+  "name": "@jcansdale-test/my-package",
+  "version": "0.0.1",
+  "bin": "./index.js"
+}
